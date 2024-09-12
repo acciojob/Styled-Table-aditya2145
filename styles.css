@@ -1,1 +1,19 @@
 /* your code */
+table{
+	border: 1px solid silver;
+	border-collapse: collapse;
+	width: 35rem;
+	height: 10rem;
+}
+thead{
+	text-align: left;
+	justify-items: left;
+	color:#fff;
+	background-color: #7956CA;
+}
+td, th{
+	padding: 3px 8px;
+}
+.odd{
+	background-color: #F6F6F6;
+}
